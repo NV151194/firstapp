@@ -21,7 +21,7 @@ export default function Home() {
         main className = { styles.main } >
         <
         h1 className = { styles.title } >
-        Nandan Verma < /a> < /
+        Nandan Verma < /
         h1 >
 
         <
